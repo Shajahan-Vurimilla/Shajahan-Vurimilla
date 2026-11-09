@@ -4,14 +4,6 @@ Hi, I'm Shajahan Vurimilla 👋
 **AWS DevOps Engineer | Cloud Infrastructure | Kubernetes | Terraform | CI/CD | DevSecOps**
 AWS DevOps Engineer with 6+ years of IT experience in cloud infrastructure, automation, Linux administration, and DevOps engineering. Passionate about building scalable, secure, and highly available cloud environments through Infrastructure as Code, containerization, CI/CD automation, and GitOps practices.
 
-🔭 Currently working as an AWS DevOps Engineer at Infosys
-☁️ Working with AWS cloud services and infrastructure automation.
-⚙️ Experienced in Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
-🚀 Hands-on experience with Amazon EKS and ArgoCD-based GitOps deployments.
-🔐 Interested in DevSecOps, cloud security, and automation.
-📚 Continuously learning and exploring modern DevOps technologies.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shajahanvurimilla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v.shajahan369@gmail.com) 
 
