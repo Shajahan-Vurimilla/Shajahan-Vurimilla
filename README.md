@@ -1,92 +1,58 @@
- Hi, I'm Shajahan Vurimilla 👋
+# 💫 About Me:
+Hi, I'm Shajahan Vurimilla 👋
 
-### AWS DevOps Engineer | Cloud Infrastructure | Kubernetes | Terraform | CI/CD | DevSecOps
-
+**AWS DevOps Engineer | Cloud Infrastructure | Kubernetes | Terraform | CI/CD | DevSecOps**
 AWS DevOps Engineer with 6+ years of IT experience in cloud infrastructure, automation, Linux administration, and DevOps engineering. Passionate about building scalable, secure, and highly available cloud environments through Infrastructure as Code, containerization, CI/CD automation, and GitOps practices.
 
-- 🔭 Currently working as an **AWS DevOps Engineer at Infosys**
-- ☁️ Working with AWS cloud services and infrastructure automation.
-- ⚙️ Experienced in Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
-- 🚀 Hands-on experience with Amazon EKS and ArgoCD-based GitOps deployments.
-- 🔐 Interested in DevSecOps, cloud security, and automation.
-- 📚 Continuously learning and exploring modern DevOps technologies.
+🔭 Currently working as an AWS DevOps Engineer at Infosys
+☁️ Working with AWS cloud services and infrastructure automation.
+⚙️ Experienced in Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
+🚀 Hands-on experience with Amazon EKS and ArgoCD-based GitOps deployments.
+🔐 Interested in DevSecOps, cloud security, and automation.
+📚 Continuously learning and exploring modern DevOps technologies.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shajahanvurimilla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v.shajahan369@gmail.com) 
+
+# 💻 Tech Stack:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+# 💼 What I Do
+
+As an AWS DevOps Engineer, I focus on designing, automating, deploying, and maintaining reliable cloud infrastructure and application delivery pipelines.
+
+- ☁️ **Cloud Infrastructure:** Design and manage AWS infrastructure, including EC2, EKS, VPC, IAM, S3, RDS, and related services.
+- 🏗️ **Infrastructure as Code:** Automate infrastructure provisioning and management using Terraform.
+- ⚙️ **CI/CD Automation:** Build and maintain CI/CD pipelines using Jenkins and GitHub Actions.
+- 🐳 **Containerization & Orchestration:** Build Docker images and deploy containerized applications on Kubernetes and Amazon EKS.
+- 🔄 **GitOps & Deployment:** Implement GitOps workflows using ArgoCD and manage application deployment strategies.
+- 🔐 **DevSecOps:** Integrate code quality analysis, vulnerability scanning, and container security into CI/CD pipelines using SonarQube and Trivy.
+- 📊 **Monitoring & Troubleshooting:** Monitor infrastructure and application performance, investigate production incidents, and improve system reliability.
+- 🐧 **Linux Administration:** Manage Linux environments, automate operational tasks, and troubleshoot system-level issues.
+
+# 📈 Career Snapshot
+
+**6+ Years of IT Experience | Cloud | Linux | AWS | DevOps**
+
+- **Infosys | AWS DevOps Engineer | September 2024 – Present**
+  - Working on cloud infrastructure, DevOps automation, Linux administration, and production support.
+  - Gaining hands-on experience with AWS, Kubernetes, Terraform, and CI/CD practices.
+
+- **LTIMindtree | Linux / Cloud & DevOps Engineering | October 2021 – September 2024**
+  - Worked on Microsoft Azure Linux support, troubleshooting, and enterprise customer environments.
+  - Transitioned into AWS and DevOps engineering, working on cloud infrastructure and automation.
+
+- **Yukthi Systems | Linux Administrator | September 2019 – November 2020**
+  - Managed Linux servers, operating system administration, DNS, mail servers, FTP/SFTP, and infrastructure support.
+  - Handled server installation, configuration, troubleshooting, and operational activities.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shajahan-Vurimilla&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Shajahan-Vurimilla&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shajahan-Vurimilla&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Shajahan-Vurimilla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-**Cloud Platforms**
-- AWS: EC2, EKS, VPC, IAM, S3, EBS, EFS, RDS, Route 53, Auto Scaling, CloudWatch
-
-**Infrastructure as Code**
-- Terraform, AWS CloudFormation
-
-**Containers & Orchestration**
-- Docker, Kubernetes, Amazon EKS, Helm
-
-**CI/CD & GitOps**
-- Jenkins, GitHub Actions, ArgoCD
-
-**Configuration Management**
-- Ansible
-
-**DevSecOps & Security**
-- SonarQube, Trivy, OWASP ZAP, SAST, DAST, Container Image Scanning
-
-**Monitoring & Logging**
-- Prometheus, Grafana, Splunk, AppDynamics
-
-**Operating Systems & Scripting**
-- Linux (RHEL, Ubuntu), Bash, Shell Scripting
-
-**Version Control**
-- Git, GitHub
-
----
-
-## 🚀 Featured Projects
-
-### 1. AWS EKS Infrastructure using Terraform
-- Provisioned AWS EKS infrastructure using Terraform.
-- Configured VPC, subnets, IAM roles, security groups, and managed node groups.
-- Implemented remote Terraform state management using Amazon S3.
-- Worked with EKS cluster upgrades and managed Kubernetes add-ons.
-
-### 2. Kubernetes GitOps Deployment using ArgoCD
-- Implemented GitOps-based application deployment using ArgoCD.
-- Configured Kubernetes applications with automated synchronization.
-- Managed application deployments and configuration through Git repositories.
-- Practiced rolling updates, blue-green, and canary deployment strategies.
-
-### 3. CI/CD Automation using Jenkins and GitHub Actions
-- Built automated CI/CD pipelines for application delivery.
-- Integrated source code quality checks using SonarQube.
-- Implemented Docker image builds and vulnerability scanning using Trivy.
-- Automated image publishing to Amazon ECR.
-
-### 4. Kubernetes Monitoring using Prometheus and Grafana
-- Configured Prometheus for infrastructure and Kubernetes monitoring.
-- Integrated Grafana dashboards for metrics visualization.
-- Explored monitoring, alerting, and troubleshooting workflows.
-
----
-
-## 📚 Currently Exploring
-
-- Advanced Kubernetes and Amazon EKS
-- Terraform modules and multi-account AWS architecture
-- GitHub Actions reusable workflows and OIDC authentication
-- ArgoCD advanced deployment strategies
-- DevSecOps automation and cloud security
-- AWS architecture and reliability best practices
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Explore my repositories](YOUR_GITHUB_URL)
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me to discuss AWS, DevOps, Kubernetes, and Cloud technologies.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
