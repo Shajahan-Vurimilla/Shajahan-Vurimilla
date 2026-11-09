@@ -1,5 +1,15 @@
 # 💫 About Me:
-### 💫 About Me :<br><br>- 🔭 **I’m currently working on** Enterprise CI/CD automation, Kubernetes (EKS) zero-downtime upgrades, and GitOps deployments.<br>- 👯 **I’m looking to collaborate on** Open-source DevOps tooling, Terraform modules, Cloud Security (DevSecOps), and Kubernetes Operators.<br>- 🤝 **I’m looking for help with** Advanced AIOps integration and automated anomaly detection in production log streams.<br>- 🌱 **I’m currently learning** Advanced AIOps workflows, Go for custom K8s controllers, and eBPF observability tooling.<br>- 💬 **Ask me about** AWS Architecture, Kubernetes & Helm, Terraform, Jenkins Pipelines, Docker, DevSecOps (SonarQube/Trivy), and Linux Administration.<br>- ⚡ **Fun fact** I love automating repetitive tasks—if I have to run a command more than twice, I'll write a Bash or Python script for it!
+Hi, I'm Shajahan Vurimilla 👋
+
+**AWS DevOps Engineer | Cloud Infrastructure | Kubernetes | Terraform | CI/CD | DevSecOps**
+AWS DevOps Engineer with 6+ years of IT experience in cloud infrastructure, automation, Linux administration, and DevOps engineering. Passionate about building scalable, secure, and highly available cloud environments through Infrastructure as Code, containerization, CI/CD automation, and GitOps practices.
+
+🔭 Currently working as an AWS DevOps Engineer at Infosys
+☁️ Working with AWS cloud services and infrastructure automation.
+⚙️ Experienced in Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
+🚀 Hands-on experience with Amazon EKS and ArgoCD-based GitOps deployments.
+🔐 Interested in DevSecOps, cloud security, and automation.
+📚 Continuously learning and exploring modern DevOps technologies.
 
 
 ## 🌐 Socials:
