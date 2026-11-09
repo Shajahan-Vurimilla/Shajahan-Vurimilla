@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi, I'm Shajahan Vurimilla 👋
 
-**AWS DevOps Engineer | Cloud Infrastructure | Kubernetes | Terraform | CI/CD | DevSecOps**
+# **AWS DevOps Engineer | Cloud Infrastructure | Kubernetes | Terraform | CI/CD | DevSecOps**
+
 AWS DevOps Engineer with 6+ years of IT experience in cloud infrastructure, automation, Linux administration, and DevOps engineering. Passionate about building scalable, secure, and highly available cloud environments through Infrastructure as Code, containerization, CI/CD automation, and GitOps practices.
 
 ## 🌐 Socials:
